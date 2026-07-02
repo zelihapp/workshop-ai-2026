@@ -1,10 +1,10 @@
-- Claude Code
-- Antigravity
-- Codex
-- Gemini CLI
-- Kiro
-- Github Copilot
-- OpenCode
-- Junie
-- OpenHands
-- MistralVibe
+- [Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code) (Anthropic)
+- [Antigravity](https://antigravity.google) (Google DeepMind)
+- [Codex](https://openai.com/blog/openai-codex/) (OpenAI)
+- [Gemini CLI](https://github.com/google/gemini-cli) (Google)
+- [Kiro](https://kiro.dev) (Kiro)
+- [Github Copilot](https://github.com/features/copilot) (GitHub)
+- [OpenCode](https://opencode.ai) (OpenCode)
+- [Junie](https://www.jetbrains.com/junie/) (JetBrains)
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) (All Hands AI)
+- [MistralVibe](https://mistral.ai) (Mistral AI)
